@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/avisekrath-zulip-mcp-server-badge.png)](https://mseep.ai/app/avisekrath-zulip-mcp-server)
+
 # Zulip MCP Server
 
 A Model Context Protocol (MCP) server that exposes Zulip REST API capabilities as tools for LLMs. This server allows AI assistants to interact with your Zulip workspace programmatically.
